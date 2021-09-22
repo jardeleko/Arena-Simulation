@@ -1,0 +1,10 @@
+[RESOURCES]
+espaco em fila 1
+atendente 1
+[VARIABLES]
+Saida.NumberOut
+Caixa.VATime
+Caixa.NumberIn
+Entrada.NumberOut
+Caixa.NumberOut
+Caixa.WaitTime

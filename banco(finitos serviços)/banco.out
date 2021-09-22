@@ -1,0 +1,64 @@
+
+                                      ARENA Simulation Results
+                                                  
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: BANK Project                                                Data da execução : 9/22/2021
+Analista: Jardel O Duarte                                             Data de revisão do modelo: 9/22/2021
+
+Replicação terminada no tempo de      : 356.80911 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Caixa.VATimePerEntity                       11.726     (Insuf)    7.1434     14.640         30    
+Caixa.TotalTimePerEntity                    11.726     (Insuf)    7.1434     14.640         30    
+Caixa.WaitTimePerEntity                     .00000     (Insuf)    .00000     .00000         30    
+Entity 1.VATime                             11.726     (Insuf)    7.1434     14.640         30    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         30    
+Entity 1.WaitTime                           74.776     (Insuf)    .00000     142.12         30    
+Entity 1.TranTime                           .16667     (Insuf)    .16667     .16667         30    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         30    
+Entity 1.TotalTime                          86.670     (Insuf)    10.041     154.37         30    
+fila_unica.Queue.WaitingTime                74.776     (Insuf)    .00000     142.12         30    
+Caixa.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         30    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                7.2871     (Insuf)    .00000     13.000     .00000    
+espaco em fila 1.NumberBusy                 1.0000     (Insuf)    .00000     1.0000     .00000    
+espaco em fila 1.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+espaco em fila 1.Utilization                1.0000     (Insuf)    .00000     1.0000     .00000    
+atendente 1.NumberBusy                      .98599     (Insuf)    .00000     1.0000     .00000    
+atendente 1.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+atendente 1.Utilization                     .98599     (Insuf)    .00000     1.0000     .00000    
+fila_unica.Queue.NumberInQueue              6.2871     (Insuf)    .00000     12.000     .00000    
+Caixa.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Caixa Accum VA Time                         351.80    
+Caixa Number In                             30.000    
+Caixa Number Out                            30.000    
+Caixa Accum Wait Time                       .00000    
+Entity 1.NumberIn                           30.000    
+Entity 1.NumberOut                          30.000    
+espaco em fila 1.NumberSeized               30.000    
+espaco em fila 1.ScheduledUtilization       1.0000    
+atendente 1.NumberSeized                    30.000    
+atendente 1.ScheduledUtilization            .98599    
+System.NumberOut                            30.000    
+
+
+Tempo executando a simulação: 1.02 minutos.
+Simulação completada.
