@@ -1,0 +1,21 @@
+[RESOURCES]
+espaco 2
+espaco 1
+Medico 1
+Medico 2
+Medico 3
+Atendimento 1
+Atendimento 2
+[VARIABLES]
+Consultorio 3.NumberOut
+Consultorio 3.NumberIn
+Saida.NumberOut
+Consultorio 1.NumberIn
+Consultorio 1.NumberOut
+Recepcionista 1.NumberIn
+Recepcionista 2.NumberIn
+Chegada.NumberOut
+Consultorio 2.NumberOut
+Recepcionista 1.NumberOut
+Recepcionista 2.NumberOut
+Consultorio 2.NumberIn

@@ -1,0 +1,110 @@
+Controlador de execução do SIMAN.
+
+22.926876 Horas>Controlador de execução do SIMAN.
+
+24.852172 Horas>Controlador de execução do SIMAN.
+
+26.726467 Horas>Controlador de execução do SIMAN.
+
+30.89905 Horas>Controlador de execução do SIMAN.
+
+40.078105 Horas>Controlador de execução do SIMAN.
+
+50.829642 Horas>Controlador de execução do SIMAN.
+
+54.031043 Horas>Controlador de execução do SIMAN.
+
+59.093851 Horas>Controlador de execução do SIMAN.
+
+62.398063 Horas>
+                                      ARENA Simulation Results
+                                                  
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução : 9/16/2021
+Analista: None                                                        Data de revisão do modelo: 9/16/2021
+
+Replicação terminada no tempo de      : 111.9732 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .52259     .00381     .40659     .64582       1000    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000       1000    
+Entity 1.WaitTime                           6.0306     (Corr)     .00000     12.011       1000    
+Entity 1.TranTime                           .00556     (Corr)     .00556     .00556       1000    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000       1000    
+Entity 1.TotalTime                          6.5587     (Corr)     .45507     12.625       1000    
+Fila consulta.Queue.WaitingTime             5.9417     (Corr)     .00000     11.901       1000    
+Fila cadastro.Queue.WaitingTime             .08883     (Corr)     .00000     .41481       1000    
+Consultorio 3.Queue.WaitingTime             .00000     .00000     .00000     .00000        331    
+Consultorio 1.Queue.WaitingTime             .00000     .00000     .00000     .00000        336    
+Consultorio 2.Queue.WaitingTime             .00000     .00000     .00000     .00000        333    
+Recepcionista 2.Queue.WaitingTime           .00000     .00000     .00000     .00000        501    
+Recepcionista 1.Queue.WaitingTime           .00000     .00000     .00000     .00000        499    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                58.574     (Corr)     .00000     112.00     .00000    
+espaco 2.NumberBusy                         2.9863     (Insuf)    .00000     3.0000     .00000    
+espaco 2.NumberScheduled                    3.0000     (Insuf)    3.0000     3.0000     3.0000    
+espaco 2.Utilization                        .99544     (Insuf)    .00000     1.0000     .00000    
+espaco 1.NumberBusy                         1.7304     (Corr)     .00000     2.0000     .00000    
+espaco 1.NumberScheduled                    2.0000     (Insuf)    2.0000     2.0000     2.0000    
+espaco 1.Utilization                        .86521     (Corr)     .00000     1.0000     .00000    
+Medico 1.NumberBusy                         .98531     (Corr)     .00000     1.0000     .00000    
+Medico 1.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Medico 1.Utilization                        .98531     (Corr)     .00000     1.0000     .00000    
+Medico 2.NumberBusy                         .98652     (Corr)     .00000     1.0000     .00000    
+Medico 2.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Medico 2.Utilization                        .98652     (Corr)     .00000     1.0000     .00000    
+Medico 3.NumberBusy                         .98967     (Corr)     .00000     1.0000     .00000    
+Medico 3.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Medico 3.Utilization                        .98967     (Corr)     .00000     1.0000     .00000    
+Atendimento 1.NumberBusy                    .85317     (Corr)     .00000     1.0000     .00000    
+Atendimento 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Atendimento 1.Utilization                   .85317     (Corr)     .00000     1.0000     .00000    
+Atendimento 2.NumberBusy                    .85244     (Corr)     .00000     1.0000     .00000    
+Atendimento 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Atendimento 2.Utilization                   .85244     (Corr)     .00000     1.0000     .00000    
+Fila consulta.Queue.NumberInQueue           53.064     (Corr)     .00000     105.00     .00000    
+Fila cadastro.Queue.NumberInQueue           .79331     .24029     .00000     5.0000     .00000    
+Consultorio 3.Queue.NumberInQueue           .00000     (Insuf)    .00000     .00000     .00000    
+Consultorio 1.Queue.NumberInQueue           .00000     (Insuf)    .00000     .00000     .00000    
+Consultorio 2.Queue.NumberInQueue           .00000     (Insuf)    .00000     .00000     .00000    
+Recepcionista 2.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+Recepcionista 1.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Entity 1.NumberIn                           1000.0    
+Entity 1.NumberOut                          1000.0    
+espaco 2.NumberSeized                       1000.0    
+espaco 2.ScheduledUtilization               .99544    
+espaco 1.NumberSeized                       1000.0    
+espaco 1.ScheduledUtilization               .86521    
+Medico 1.NumberSeized                       336.00    
+Medico 1.ScheduledUtilization               .98531    
+Medico 2.NumberSeized                       333.00    
+Medico 2.ScheduledUtilization               .98652    
+Medico 3.NumberSeized                       331.00    
+Medico 3.ScheduledUtilization               .98967    
+Atendimento 1.NumberSeized                  499.00    
+Atendimento 1.ScheduledUtilization          .85317    
+Atendimento 2.NumberSeized                  501.00    
+Atendimento 2.ScheduledUtilization          .85244    
+System.NumberOut                            1000.0    
+
+
+Tempo executando a simulação: 2.18 minutos.
+Simulação completada.

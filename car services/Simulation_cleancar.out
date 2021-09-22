@@ -1,0 +1,106 @@
+
+                                      ARENA Simulation Results
+                                                  
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução : 9/16/2021
+Analista: None                                                        Data de revisão do modelo: 9/16/2021
+
+Replicação terminada no tempo de      : 65.896954 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .25303     .00931     .11822     1.1281       1000    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000       1000    
+Entity 1.WaitTime                           .10610     .02735     .00000     1.4833       1000    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000       1000    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000       1000    
+Entity 1.TotalTime                          .35913     .03350     .12375     1.8156       1000    
+Completa furgao.Queue.WaitingTime           .08189     (Insuf)    .00000     1.3609        209    
+Regular caminhao.Queue.WaitingTime          .02089     (Insuf)    .00000     .15450        286    
+Regular carros.Queue.WaitingTime            .00593     .00173     .00000     .06163        505    
+Completa carros.Queue.WaitingTime           .06960     .02749     .00000     .57441        505    
+simples caminhao.Queue.WaitingTime          .00455     (Insuf)    .00000     .09625        286    
+Regular furgao.Queue.WaitingTime            .02514     (Insuf)    .00000     .28347        209    
+simples carros.Queue.WaitingTime            .00843     .00245     .00000     .12522        505    
+simples furgao.Queue.WaitingTime            .00276     (Insuf)    .00000     .06401        209    
+Completa caminhao.Queue.WaitingTime         .11705     (Insuf)    .00000     1.4483        286    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                5.4499     .53710     .00000     15.000     .00000    
+L9.NumberBusy                               .47562     (Insuf)    .00000     1.0000     .00000    
+L9.NumberScheduled                          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+L9.Utilization                              .47562     (Insuf)    .00000     1.0000     .00000    
+L8.NumberBusy                               .52019     .07972     .00000     1.0000     .00000    
+L8.NumberScheduled                          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+L8.Utilization                              .52019     .07972     .00000     1.0000     .00000    
+L1.NumberBusy                               .44506     .03159     .00000     1.0000     .00000    
+L1.NumberScheduled                          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+L1.Utilization                              .44506     .03159     .00000     1.0000     .00000    
+L3.NumberBusy                               .18387     .02064     .00000     1.0000     .00000    
+L3.NumberScheduled                          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+L3.Utilization                              .18387     .02064     .00000     1.0000     .00000    
+L2.NumberBusy                               .25342     .02865     .00000     1.0000     .00000    
+L2.NumberScheduled                          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+L2.Utilization                              .25342     .02865     .00000     1.0000     .00000    
+L5.NumberBusy                               .43401     .04786     .00000     1.0000     .00000    
+L5.NumberScheduled                          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+L5.Utilization                              .43401     .04786     .00000     1.0000     .00000    
+L4.NumberBusy                               .51090     .03743     .00000     1.0000     .00000    
+L4.NumberScheduled                          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+L4.Utilization                              .51090     .03743     .00000     1.0000     .00000    
+L7.NumberBusy                               .59387     .06031     .00000     1.0000     .00000    
+L7.NumberScheduled                          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+L7.Utilization                              .59387     .06031     .00000     1.0000     .00000    
+L6.NumberBusy                               .42288     (Insuf)    .00000     1.0000     .00000    
+L6.NumberScheduled                          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+L6.Utilization                              .42288     (Insuf)    .00000     1.0000     .00000    
+Completa furgao.Queue.NumberInQueue         .25974     (Insuf)    .00000     3.0000     .00000    
+Regular caminhao.Queue.NumberInQueue        .09068     (Insuf)    .00000     2.0000     .00000    
+Regular carros.Queue.NumberInQueue          .04544     .01655     .00000     1.0000     .00000    
+Completa carros.Queue.NumberInQueue         .53338     .23642     .00000     7.0000     .00000    
+simples caminhao.Queue.NumberInQueue        .01976     (Insuf)    .00000     2.0000     .00000    
+Regular furgao.Queue.NumberInQueue          .07973     (Insuf)    .00000     3.0000     .00000    
+simples carros.Queue.NumberInQueue          .06457     (Insuf)    .00000     3.0000     .00000    
+simples furgao.Queue.NumberInQueue          .00876     (Insuf)    .00000     1.0000     .00000    
+Completa caminhao.Queue.NumberInQueue       .50802     (Insuf)    .00000     5.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Entity 1.NumberIn                           1000.0    
+Entity 1.NumberOut                          1000.0    
+L9.NumberSeized                             209.00    
+L9.ScheduledUtilization                     .47562    
+L8.NumberSeized                             286.00    
+L8.ScheduledUtilization                     .52019    
+L1.NumberSeized                             505.00    
+L1.ScheduledUtilization                     .44506    
+L3.NumberSeized                             209.00    
+L3.ScheduledUtilization                     .18387    
+L2.NumberSeized                             286.00    
+L2.ScheduledUtilization                     .25342    
+L5.NumberSeized                             286.00    
+L5.ScheduledUtilization                     .43401    
+L4.NumberSeized                             505.00    
+L4.ScheduledUtilization                     .51090    
+L7.NumberSeized                             505.00    
+L7.ScheduledUtilization                     .59387    
+L6.NumberSeized                             209.00    
+L6.ScheduledUtilization                     .42288    
+System.NumberOut                            1000.0    
+
+
+Tempo executando a simulação: 0.53 minutos.
+Simulação completada.
